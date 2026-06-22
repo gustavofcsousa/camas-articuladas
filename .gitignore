@@ -1,0 +1,12 @@
+.DS_Store
+assets/.DS_Store
+
+# Ficheiros de trabalho que não fazem parte da página publicada
+assets/camas-src/
+assets/camas-treated-test/
+assets/camas-treated-test-swift/
+assets/estofos-images/
+assets/extracted/
+assets/feature-clean/
+assets/logo-fabrica-descanso.jpeg
+assets/logo-fabrica-descanso.svg
